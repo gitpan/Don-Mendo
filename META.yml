@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Don-Mendo
-version:            0.0.5
+version:            0.0.6
 abstract:           Modules for "La venganza de Don Mendo", Sir Mendo's revenge.
 author:
     - JJ Merelo <jj@merelo.net>

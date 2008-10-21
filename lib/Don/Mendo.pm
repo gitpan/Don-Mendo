@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Carp;
 
-our $VERSION = "0.0.5";
+our $VERSION = "0.0.6";
 
 # Other recommended modules (uncomment to use):
 #  use IO::Prompt;
